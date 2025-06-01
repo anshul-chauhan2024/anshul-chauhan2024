@@ -1,5 +1,3 @@
-## Anshul Chauhan : @codebyansh
-
 # 💫 About Me:
 Hey! I'm Anshul Chauhan, a frontend developer who loves turning coffee into clean code. When I'm not studying for my BCA degree, you'll find me:<br><br>• Building responsive websites with HTML/CSS/JS magic<br>• Learning React to level up my skills<br>• Freelancing and solving real-world design challenges<br><br>I can spot a missing semicolon from across the room!<br><br>Currently obsessed with: CSS animations and accessibility best practices. Let's connect and create something awesome together! 🚀
 
